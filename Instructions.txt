@@ -1,10 +1,10 @@
-1. Generate a "Transaction History" report for the user. Make sure to include all the years that they have transactions in.
+1. Generate "Transaction History" reports, make sure to include all the years that has transactions.
 
-2. Place the report in the "backup script" folder where the "backup_script.py" file is.
+2. Place the report in the "backup_script" folder where the "backup_script.py" file is.
 
 3. Run the "backup_script.py" and follow the prompts.
 
-That's it!
+4. Open the "backup" folder to find the generated files.
 
 Notes:
 You'll need to install python 3 to run the script.
